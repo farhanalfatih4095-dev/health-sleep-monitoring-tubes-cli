@@ -1,0 +1,22 @@
+{
+  "sleep_records": [
+    {
+      "date": "2026-05-28",
+      "bed_time": "21:35",
+      "wake_time": "05:00",
+      "duration_hours": 7.42
+    }
+  ],
+  "health_records": [
+    {
+      "date": "2026-05-28",
+      "water_glass": 5,
+      "water_bottle": 0,
+      "total_water_ml": 1250,
+      "exercise_mins": 0,
+      "exercise_type": "",
+      "mood": "Bahagia 😊",
+      "mood_score": 4
+    }
+  ]
+}
